@@ -1,0 +1,110 @@
+.navbar-default .navbar-brand{
+    color: black;
+}
+html{
+    height: 100%;
+}
+body{
+    background-image:url(../images/img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.center{
+    text-align: center;
+    padding-top: 8%;
+}
+h1,p{
+    color: black;
+}
+h2>span{
+    color:black;
+  
+}
+#login{
+    min-width: 250px;
+    background-color: rgba(255,255.,255,0.7);
+    padding: 10px;
+}
+
+.btn-fb{
+    background-color: #3b5998;
+    color: white;
+}
+
+.btn-tw{
+    background-color: #55acee;
+   color: white; 
+    margin-left: 12px;
+}
+
+
+.btn-fb:hover{
+     color: white;  
+    
+}
+
+.btn-tw:hover{
+     color: white;  
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px){
+    h1,p{
+        background-color:chartreuse;
+        opacity: 0.8;
+    }
+}
+
+@media(min-width:760px){
+    
+    .call{
+        background-color:skyblue;
+        opacity: 0.8;
+        
+    }
+    
+}
+
+/*
+
+.navbar-default{
+opacity: 0.8;    
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
